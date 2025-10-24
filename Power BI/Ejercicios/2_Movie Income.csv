@@ -1,0 +1,145 @@
+﻿Genre,Certificate,Director,Box Office
+Action,12,Joel Schumacher,336500000.00
+Action,12,Tim Burton,411300000.00
+Action,12,Zack Snyder,873300000.00
+Action,12A,Ang Lee,245300000.00
+Action,12A,Anthony Russo,1867400000.00
+Action,12A,Bryan Singer,2090792741.00
+Action,12A,Carl Rinsch,151800000.00
+Action,12A,Christopher McQuarrie,682300000.00
+Action,12A,Christopher Nolan,2464218673.00
+Action,12A,Gareth Edwards,529100000.00
+Action,12A,Guillermo del Toro,99318987.00
+Action,12A,Guy Ritchie,545400000.00
+Action,12A,James Mangold,414800000.00
+Action,12A,James Wan,1516000000.00
+Action,12A,Jon Favreau,1209100000.00
+Action,12A,Joss Whedon,2925000000.00
+Action,12A,Justin Lin,1414800000.00
+Action,12A,Marc Webb,1466900000.00
+Action,12A,Matt Reeves,710600000.00
+Action,12A,Matthew Vaughn,353600000.00
+Action,12A,Peter Berg,303000000.00
+Action,12A,Rob Cohen,76932872.00
+Action,12A,Sam Raimi,2496346518.00
+Action,12A,Shane Black,1215000000.00
+Action,12A,Zack Snyder,668000000.00
+Action,15,Antoine Fuqua,95700000.00
+Action,15,David Ayer,745600000.00
+Action,15,John McTiernan,644100155.00
+Action,15,Len Wiseman,479200000.00
+Action,15,Matthew Vaughn,414400000.00
+Action,15,Michael Bay,273300000.00
+Action,15,Patrick Hughes,206200000.00
+Action,15,Renny Harlin,240031094.00
+Action,15,Richard Donner,285444603.00
+Action,15,Ridley Scott,115100000.00
+Action,15,Rob Cohen,277448382.00
+Action,18,John Woo,245700000.00
+Action,18,Jonathan Hensleigh,54700000.00
+Action,18,Kathryn Bigelow,83500000.00
+Action,18,Ted Post,44680473.00
+Action,18,Zack Snyder,185300000.00
+Action,PG,Akira Kurosawa,4500000.00
+Action,PG,Joel Schumacher,238200000.00
+Action,PG,Richard Lester,270600000.00
+Action,PG,Tim Burton,266800000.00
+Adventure,12,Gore Verbinski,654264015.00
+Adventure,12,Hark Tsui,51700000.00
+Adventure,12,Kevin Reynolds,264218220.00
+Adventure,12,Stephen Sommers,848900000.00
+Adventure,12,Wolfgang Peterson,328718434.00
+Adventure,12A,Antoine Fuqua,203600000.00
+Adventure,12A,Colin Trevorrow,1670000000.00
+Adventure,12A,Francis Lawrence,1620400000.00
+Adventure,12A,Gore Verbinski,2029600150.00
+Adventure,12A,Peter Jackson,550500000.00
+Adventure,12A,Peter Weir,212011111.00
+Adventure,12A,Ridley Scott,589900000.00
+Adventure,12A,Rob Marshall,1046000000.00
+Adventure,12A,Steven Spielberg,786600000.00
+Adventure,15,Alejandro G. Inarritu,533000000.00
+Adventure,15,Edward Zwick,628166160.00
+Adventure,15,Peter Yates,47300000.00
+Adventure,15,Ridley Scott,721598413.00
+Adventure,15,Wolfgang Peterson,497409852.00
+Adventure,18,Mel Gibson,120600000.00
+Adventure,PG,Ang Lee,609000000.00
+Adventure,PG,Brian Helgeland,117500000.00
+Adventure,PG,John Guillermin,90614445.00
+Adventure,PG,Jon Turteltaub,457400000.00
+Adventure,PG,Kevin Reynolds,390493908.00
+Adventure,PG,Richard Donner,300218018.00
+Adventure,PG,Steven Spielberg,2122739903.00
+Adventure,U,George Sidney,8412000.00
+Adventure,U,Ken Annakin,40000000.00
+Adventure,U,Martin Scorsese,185800000.00
+Adventure,U,Michael Anderson,42000000.00
+Adventure,U,Richard Fleischer,28200000.00
+Adventure,U,Steven Spielberg,300900000.00
+Comedy,12,Chris Columbus,441300000.00
+Comedy,12,Nancy Meyers,374111707.00
+Comedy,12A,John Madden,136800000.00
+Comedy,12A,Steven Spielberg,219400000.00
+Comedy,15,Edgar Wright,80700000.00
+Comedy,15,Jean-Pierre Jeunet,173921954.00
+Comedy,15,John Landis,115200000.00
+Comedy,15,Kevin Smith,31400000.00
+Comedy,15,Robert Aldrich,43008075.00
+Comedy,PG,John Madden,86000000.00
+Comedy,PG,Lewis Milestone,5650000.00
+Comedy,PG,Nancy Meyers,83900000.00
+Comedy,U,Charlie Chaplin,5000000.00
+Comedy,U,Frank Capra,9000000.00
+Comedy,U,Stanley Kramer,60000000.00
+Fantasy,12A,David Yates,4792385929.00
+Fantasy,12A,Mike Newell,896911078.00
+Fantasy,12A,Peter Jackson,4980476632.00
+Fantasy,12A,Tim Burton,271900000.00
+Fantasy,15,John Milius,130000000.00
+Fantasy,PG,Alfonso Cuaron,796688549.00
+Fantasy,PG,Andrew Adamson,1164700000.00
+Fantasy,PG,Chris Columbus,1853779634.00
+Fantasy,PG,Matthew Vaughn,135600000.00
+Fantasy,PG,Peter Jackson,871530324.00
+Fantasy,PG,Ridley Scott,15500000.00
+Fantasy,PG,Ron Howard,57300000.00
+Fantasy,PG,Tim Burton,122900000.00
+Fantasy,U,Cecil B. DeMille,80000000.00
+Fantasy,U,Don Chaffey,39600000.00
+Fantasy,U,Frank Capra,3300000.00
+Science Fiction,12,J. J. Abrams,853100000.00
+Science Fiction,12,Michael Bay,553709788.00
+Science Fiction,12,Mimi Leder,349464664.00
+Science Fiction,12,Roland Emmerich,817400891.00
+Science Fiction,12,Steven Spielberg,594200000.00
+Science Fiction,12A,Alan Taylor,440600000.00
+Science Fiction,12A,Andrew Stanton,284100000.00
+Science Fiction,12A,Christopher Nolan,1500600000.00
+Science Fiction,12A,Francis Lawrence,653400000.00
+Science Fiction,12A,Gareth Edwards,388100000.00
+Science Fiction,12A,Gary Ross,694400000.00
+Science Fiction,12A,George Lucas,848800000.00
+Science Fiction,12A,J. J. Abrams,2066000000.00
+Science Fiction,12A,James Cameron,2788000000.00
+Science Fiction,12A,James Gunn,774200000.00
+Science Fiction,12A,Justin Lin,343500000.00
+Science Fiction,12A,Lana (Larry) Wachowski,184000000.00
+Science Fiction,12A,Michael Bay,3761009780.00
+Science Fiction,12A,Ridley Scott,630200000.00
+Science Fiction,15,James Cameron,606816249.00
+Science Fiction,15,Lilly (Andy) Wachowski,1632971759.00
+Science Fiction,15,Ridley Scott,403400000.00
+Science Fiction,15,Roger Spottiswoode,96100000.00
+Science Fiction,18,James Cameron,183300000.00
+Science Fiction,18,Kathryn Bigelow,8000000.00
+Science Fiction,PG,David Lynch,30900000.00
+Science Fiction,PG,George Lucas,649400000.00
+Science Fiction,PG,Leonard Nimoy,133000000.00
+Science Fiction,PG,Luc Besson,263920180.00
+Science Fiction,PG,Roland Emmerich,575600000.00
+Science Fiction,PG,Steven Spielberg,303800000.00
+Science Fiction,U,George Lucas,1802400000.00
+Science Fiction,U,Irvin Kershner,538400000.00
+Science Fiction,U,Richard Marquand,475100000.00
+Science Fiction,U,Robert Wise,139000000.00
